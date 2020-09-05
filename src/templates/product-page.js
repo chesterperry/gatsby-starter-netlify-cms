@@ -136,7 +136,6 @@ const ProductPage = ({ data }) => {
       <ProductPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}
-        heading={frontmatter.heading}
         description={frontmatter.description}
         intro={frontmatter.intro}
         main={frontmatter.main}
